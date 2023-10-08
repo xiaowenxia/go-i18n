@@ -4,7 +4,7 @@ import (
 	"fmt"
 	"os"
 
-	"github.com/jiangxin/go-i18n/i18n"
+	"github.com/xiaowenxia/go-i18n/i18n"
 )
 
 func usage(msg string) {

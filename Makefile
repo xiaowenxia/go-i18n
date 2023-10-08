@@ -1,5 +1,5 @@
 PROGRAM = go-i18n
-PKG = github.com/jiangxin/go-i18n
+PKG = github.com/xiaowenxia/go-i18n
 
 # Include wrappers for gettext utils
 include makefile.i18n

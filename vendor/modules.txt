@@ -7,9 +7,9 @@ github.com/leonelquinteros/gotext
 github.com/leonelquinteros/gotext/plurals
 # github.com/onsi/ginkgo v1.16.5
 ## explicit; go 1.16
-# github.com/onsi/gomega v1.27.10
+# github.com/onsi/gomega v1.28.0
 ## explicit; go 1.18
-# golang.org/x/text v0.11.0
+# golang.org/x/text v0.12.0
 ## explicit; go 1.17
 golang.org/x/text/internal/format
 golang.org/x/text/internal/language

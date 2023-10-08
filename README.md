@@ -9,7 +9,7 @@ Use gettext as i18n framework for go project.
 
 Import "i18n" package in your code, e.g.:
 
-    import "github.com/jiangxin/go-i18n/i18n"
+    import "github.com/xiaowenxia/go-i18n/i18n"
 
 Setup locale dir and use default language, and returns a
 locale instance.
